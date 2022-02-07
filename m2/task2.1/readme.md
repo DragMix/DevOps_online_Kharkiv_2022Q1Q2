@@ -17,4 +17,4 @@
 
 ## Completed ping probes and checked availability to establish SSH connection
 
-![Third image](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m2/task2.1/result_images/image3.png)
+![Fourth image](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m2/task2.1/result_images/image4.png)
