@@ -1,3 +1,6 @@
+Task 1.1
+Work that was done can be presented in log, because all that I done was working with git repository and creating bins and files
+
 commit 4cfb7b8ac1da44acb4ac9980ee603cafdcfae797
 Author: Mykhailo Tolstyi <53881141+DragMix@users.noreply.github.com>
 Date:   Sun Feb 6 16:54:12 2022 +0200
