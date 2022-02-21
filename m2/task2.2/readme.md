@@ -20,4 +20,12 @@
 
 ## Task 2.2.11. Loaded file to S3 bucket.
 
-![Task 2.2.111](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m2/task2.2/result_images/task2.2.11.png)
+![Task 2.2.11](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m2/task2.2/result_images/task2.2.11.png)
+
+## Task 2.2.14. Launched Lambda function.
+
+![Task 2.2.14](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m2/task2.2/result_images/task2.2.14.png)
+
+## Task 2.2.15. Launched personal website with domain name (still in progress).
+
+[http://hw-017.pp.ua/](http://hw-017.pp.ua/)
