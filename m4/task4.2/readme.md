@@ -52,7 +52,7 @@
 ### If we type "ls -la" command, result strings will have permitions field:
 ### First three - owner's permitions, second three - file group permitions, third three - other user's permitions
 ### There can be some of that letters in the three: "r" - read file, "w" - write file, "x" - execute file.
-### Example: "-rwxr-xr--" record tell us that it's file, that can be **r**ead, **w**riten and e**x**ecuted by owner, **r**ead, and e**x**ecuted by file group users, and only **r**ead by oher users. "-" means denied.
+### Example: "-rwxr-xr--" record tell us that it's file, that can be ***r***ead, ***w***riten and e***x***ecuted by owner, ***r***ead, and e***x***ecuted by file group users, and only ***r***ead by oher users. "-" means denied.
 ![task4.2.11-13](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/result_images/task4.2.11-13.png)
 
 ## Task 4.2.14
