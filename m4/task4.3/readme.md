@@ -101,4 +101,4 @@ ssh-keygen -t rsa -b 4096 -o -a 250 -C “epam devops”
 ![task4.3.p2.3](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/result_images/task4.3.p2.3.png)
 
 ## Task 4.3.p2.4
-### Port forwarding set up.
+### Port forwarding set up with network configuration in VBox settings.
