@@ -2,11 +2,11 @@
 
 ## Task 7.1-2
 ### Downloaded and installed MySQL to Ubuntu Server VM with `sudo apt install mysql-server`
-![task7.1_2](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/task7/result_images/task7.1_2.png)
+![task7.1-2](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/task7/result_images/task7.1-2.png)
 
 ## Task 7.3-4
 ### Created DB and tables for Wheels shop, it's contains models, specs and importer info tables.
-![task7.3_4](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/task7/result_images/task7.3_4.png)
+![task7.3-4](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/task7/result_images/task7.3-4.png)
 
 ## Task 7.5
 ### Tables was filled in.
