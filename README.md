@@ -1,17 +1,12 @@
 # DevOps_online_Kharkiv_2022Q1Q2
-I just learned how to work with VCS **Git**, and installed needed software to work with that.
-It wasn't difficult, because there are a lot of information in the Internet resourses like [Git Docs](https://git-scm.com/docs) and lectures material about how to work with Git system.
-I learned to correct use of:
-
-```
-git checkout
-git branch
-git merge
-git rebase
-git reset
-git commit
-```
-
-What's about __DevOps__?
-At my opinion, DevOps - it's a method to interract with customer, who wants get a well-supported and suitable product.
-All of our community, me in particular, wants to be involved in this profession, because it's profitable and comfortable employment.
+## All tasks and final project was done.
+## You can check them at following links:
+## [Task 1. Intro and VCS.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m1)
+## [Task 2. Virtualization and Cloud Basic.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m2)
+## [Task 3. Networking fundamentals.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m3)
+## [Task 4. Linux Essentials.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m4)
+## [Task 5. Linux Networking.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m5)
+## [Task 6. Administration with Bash.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m6)
+## [Task 7. Database Administration.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m7)
+## [Task 8. Python Intro.](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m8)
+## [Task 9. CI/CD | Final Project](https://github.com/DragMix/DevOps_online_Kharkiv_2022Q1Q2/tree/main/final/final_task)
